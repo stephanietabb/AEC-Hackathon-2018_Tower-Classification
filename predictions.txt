@@ -1,0 +1,10 @@
+Asian, europian, Modern
+('/Users/fhedayat/Desktop/rnn/ht/validation_set/American International.jpg', ' ============> ', 0.04296578, 0.00032723008, 0.956707)
+('/Users/fhedayat/Desktop/rnn/ht/validation_set/Asia+Condo.jpg', ' ============> ', 0.77989155, 0.0025439006, 0.2175645)
+('/Users/fhedayat/Desktop/rnn/ht/validation_set/BailiOcean.jpg', ' ============> ', 0.49097958, 0.5021036, 0.0069167623)
+('/Users/fhedayat/Desktop/rnn/ht/validation_set/Baiyoke.jpg', ' ============> ', 0.6816449, 0.28184485, 0.03651024)
+('/Users/fhedayat/Desktop/rnn/ht/validation_set/Biyoke+Tower.jpg', ' ============> ', 0.17619763, 0.019875005, 0.80392736)
+('/Users/fhedayat/Desktop/rnn/ht/validation_set/Central Plaza.jpg', ' ============> ', 0.55248034, 1.6199838e-05, 0.44750354)
+('/Users/fhedayat/Desktop/rnn/ht/validation_set/Chi.jpg', ' ============> ', 0.24745156, 0.07499049, 0.67755795)
+('/Users/fhedayat/Desktop/rnn/ht/validation_set/CiraCenter.jpg', ' ============> ', 0.428832, 0.01851676, 0.5526513)
+('/Users/fhedayat/Desktop/rnn/ht/validation_set/East Wacker.jpg', ' ============> ', 0.84332997, 0.032675657, 0.12399444)
